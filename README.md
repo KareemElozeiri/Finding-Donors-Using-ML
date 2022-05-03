@@ -15,13 +15,13 @@ This project I worked on during my Machine Learning Cross-Skilling NANODEGREE Pr
 - Grid Search
 
 ## Installs:
-``` pip install sklearn```
+``` pip install sklearn==1.0.2```
 
-``` pip install numpy```
+``` pip install numpy==1.22.2```
 
-``` pip install pandas```
+``` pip install pandas==1.4.0```
 
-``` pip install matplotlib```
+``` pip install matplotlib==3.5.1```
 
 
 ## Author:
